@@ -70,7 +70,8 @@ Model graph:
 
 <img width="1501" height="495" alt="Screenshot 2026-10-17 100247" src="https://github.com/user-attachments/assets/b8272851-15b6-420a-b9ae-18580dc18333" />
 
-<img width="1501" height="495" alt="Screenshot 2026-10-17 100247" src="https://github.com/user-attachments/assets/dd968f84-45e1-4a6f-a83f-b71769c257fe" />
+<img width="1023" height="488" alt="Screenshot 2026-10-17 143258" src="https://github.com/user-attachments/assets/634c1684-ef68-4aeb-a415-b235b1f47067" />
+
 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.

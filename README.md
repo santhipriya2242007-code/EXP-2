@@ -6,12 +6,12 @@ To conduct load test on separately excited generators and to obtain the characte
 
 Apparatus Required:
 
-Sl.No	Apparatus	   Range	Type	Quantity
+Sl.No	 Apparatus	   Range	Type	Quantity
 1	    Volt meter	 (0-300)V	MC	1
 2	    Ammeter	     (0-2.5)A	MC	1
 3	    Ammeter	     (0-5)A	MC	  1
-4	    Rheostat	Wire wouned	    1
-5	    Rheostat	Wire wouned	    1
+4	    Rheostat	Wire wound	    1
+5	    Rheostat	Wire wound	    1
 6	    Connecting wires	-	-    	As required
 
 Fuse rating calculation for field and armature:
@@ -24,14 +24,14 @@ Load test
 
 125 % of rated current (full load current)
 
-Precautions
+Precautions:
 
 1.   Motor side field rheostat should be kept at minimum resistance position.
 2.   Generator side field rheostat should be kept at maximum resistance position.
 3.   Starter should be in off position before switching on the supply.
 4.   The DPST switch must be kept open.Procedure for open circuit test.
    
-Procedure for Open-Circuit:
+Procedure for Open-Circuit Test:
 
 1.   Connections are given as per the circuit diagram.
 2.   The motor is started with the help of THREE POINT starter.
@@ -51,7 +51,7 @@ Procedure for Load Test:
 
 Circuit: 
 
-Open circuit characteristic:
+Open circuit characteristics:
 
 <img width="1154" height="746" alt="Screenshot 2026-10-17 095903" src="https://github.com/user-attachments/assets/d68f72a5-815f-443c-b490-b7434c35dfbf" />
   

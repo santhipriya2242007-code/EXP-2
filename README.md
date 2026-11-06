@@ -57,7 +57,7 @@ Open circuit characteristics:
   
   
 Load Characteristics:
- <img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/a0c6f481-718b-4ea5-a2bf-7684423635f2" />
+ <img width="1470" height="743" alt="Screenshot 2026-10-17 100223" src="https://github.com/user-attachments/assets/c6432a9b-5539-48b6-b594-2760c742085d" />
 
 
 Tabulation for Open Circuit Test
